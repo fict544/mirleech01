@@ -1,4 +1,4 @@
-FROM fiction7799:latest
+FROM fiction7799/dock:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
